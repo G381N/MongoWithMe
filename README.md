@@ -40,7 +40,7 @@ Jump straight to what you need:
 | 6 | **CRUD Overview** | The four fundamental operations at a glance | [Go →](6.CRUDOverview.md) |
 | 7 | **CRUD — Read** | Deep dive into read operations | [Go →](7.CRUDRead.md) |
 | 8 | **CRUD — Create** | Deep dive into create operations | [Go →](8.CRUDCreate.md) |
-| 9 | **Aggregation Framework** | Pipelines, `$match`, `$group`, `$sort`, `$project` & more | [Go →](aggregators/Aggregators.md) |
+| 9 | **Aggregation Framework** | Pipelines, `$match`, `$group`, `$sort`, `$project` & more | [Go →](aggregators/1.Aggregators.md) |
 
 ---
 
