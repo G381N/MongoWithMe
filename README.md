@@ -33,6 +33,7 @@ Jump straight to what you need:
 
 | # | Topic | Description | Link |
 |:-:|:------|:------------|:----:|
+| 0 | **SQL vs NoSQL** | Understanding the difference & types of NoSQL databases | [Go →](0.SQLvsNoSQL.md) |
 | 1 | **Getting Started** | Connecting to MongoDB & navigating databases | [Go →](1.GettingStarted.md) |
 | 2 | **Inserting Documents** | Creating collections & your first data | [Go →](2.InsertingDocuments.md) |
 | 3 | **Reading Documents** | Retrieving data with `find()` & `findOne()` | [Go →](3.ReadingDocuments.md) |
@@ -47,6 +48,15 @@ Jump straight to what you need:
 ## 📚 Full Index
 
 Below is the complete table of contents for every topic covered in this repository. New sections will be added as I continue learning!
+
+### 🌍 Foundations
+
+0. **[SQL vs NoSQL — Understanding the Difference](0.SQLvsNoSQL.md)**
+   - What is SQL? What is NoSQL?
+   - SQL vs NoSQL side-by-side comparison
+   - Types of NoSQL: Document, Key-Value, Column-Family, Graph
+   - When to use which type
+   - Where MongoDB fits in
 
 ### 🔰 Getting Started
 
